@@ -28,8 +28,6 @@ I build and operate reliable cloud infrastructure, CI/CD platforms, and containe
 
 ### 🏆 Toptal
 
-### 🏆 Toptal
-
 <a href="https://www.toptal.com/developers/resume/kartheek-siva-kumar-boddu#ZZnZQw">
   <img src="./toptal-badge.svg" alt="Toptal Top 3% Talent" width="180">
 </a>

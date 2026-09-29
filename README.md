@@ -34,9 +34,12 @@ I build and operate reliable cloud infrastructure, CI/CD platforms, and containe
 
 ### 🛠️ Technologies
 
-`AWS` `Azure` `Kubernetes` `EKS` `AKS` `Docker` `Terraform`  
-`Jenkins` `GitHub Actions` `Azure DevOps` `Helm` `ArgoCD`  
-`Prometheus` `Grafana` `CloudWatch` `Azure Monitor`  
+`AWS` `Azure` `Kubernetes` `Amazon EKS` `AKS` `Docker` `Terraform`
+
+`Jenkins` `GitHub Actions` `Azure DevOps` `Helm` `ArgoCD`
+
+`Prometheus` `Grafana` `CloudWatch` `Azure Monitor`
+
 `Python` `Bash` `Git` `Linux` `CI/CD` `DevSecOps`
 
 ### 📍 Location
